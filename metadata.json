@@ -1,0 +1,6 @@
+{
+  "name": "NovaBeat X",
+  "description": "Next-generation offline music player with 200% DSP volume booster, 10-band interactive EQ, 60fps GPU-reactive live visualizers, offline mood detection, and immersive, cyberpunk-themed customizable environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
